@@ -4,7 +4,7 @@ s.name         = "mytestiosDemo"
 s.version      = "1.0.0"
 s.summary      = "this is my first ios sdc demo."
 s.homepage     = "https://github.com/rhzx/test-ios"
-s.source       = { :git => 'https://github.com/rhzx/test-ios/sa-sdk-ios.git', :tag => "v#{s.version}" }
+s.source       = { :git => 'https://github.com/rhzx/test-ios.git', :tag => "v#{s.version}" }
 s.license = { :type => "Apache License, Version 2.0" }
 s.author = { "rhzx" => "" }
 s.platform = :ios, "7.0"
